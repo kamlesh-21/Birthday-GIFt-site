@@ -60,7 +60,7 @@ body{
 }
 
 #bday-gift-wrapper-black:hover{
-    background: black;
+    background-image: url("https://media.giphy.com/media/559oO9eZ2Rw3SnIBoa/giphy.gif");
 }
 #bday-gift-wrapper-green:hover{
     background: green;
